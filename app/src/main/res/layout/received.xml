@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginRight="100dp">
+
+    <TextView
+        android:id="@+id/receivedText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="selam kanka naber"
+        android:textSize="15dp"
+        android:padding="12dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_dark"
+        android:background="@drawable/received"
+        android:layout_marginTop="7dp"
+        ></TextView>
+
+
+
+</LinearLayout>

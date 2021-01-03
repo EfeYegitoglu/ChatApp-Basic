@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88989434230",
+    "firebase_url": "https://fir-c6122.firebaseio.com",
+    "project_id": "fir-c6122",
+    "storage_bucket": "fir-c6122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88989434230:android:e740522f9f93e937f47a57",
+        "android_client_info": {
+          "package_name": "com.efeyegitoglu.real_time_mesajlajma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88989434230-9hqfdiregvt4ijih2qolfrsjlkh4r39d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.efeyegitoglu.real_time_mesajlajma",
+            "certificate_hash": "d10a88e448952fcdf6b2c17a9f1f570a52f719bd"
+          }
+        },
+        {
+          "client_id": "88989434230-fc9d03e0mhqtvqopfnatj8nvs4q2oena.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPvlwn9gKYTZib9nV5iDnwxVU5iLWliVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88989434230-fc9d03e0mhqtvqopfnatj8nvs4q2oena.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
